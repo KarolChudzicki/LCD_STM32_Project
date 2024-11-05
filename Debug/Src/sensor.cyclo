@@ -1,0 +1,4 @@
+../Src/sensor.c:69:6:Set_DeviceConnectable	1
+../Src/sensor.c:119:6:user_notify	8
+../Src/sensor.c:174:6:GAP_DisconnectionComplete_CB	1
+../Src/sensor.c:189:6:GAP_ConnectionComplete_CB	2

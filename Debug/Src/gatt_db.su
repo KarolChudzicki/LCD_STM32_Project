@@ -1,0 +1,2 @@
+../Src/gatt_db.c:49:12:Add_HWServW2ST_Service	64	static
+../Src/gatt_db.c:82:12:BlueMS_Environmental_Update	40	static

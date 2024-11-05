@@ -1,0 +1,4 @@
+../Src/app_bluenrg_ms.c:61:6:MX_BlueNRG_MS_Init	7
+../Src/app_bluenrg_ms.c:162:6:MX_BlueNRG_MS_Process	1
+../Src/app_bluenrg_ms.c:169:13:User_Init	1
+../Src/app_bluenrg_ms.c:176:13:User_Process	3

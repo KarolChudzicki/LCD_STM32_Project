@@ -1,0 +1,7 @@
+../Src/myLCD_Driver.c:15:6:LCD1602_Init	8	static
+../Src/myLCD_Driver.c:37:6:LCD1602_Clear	8	static
+../Src/myLCD_Driver.c:43:6:LCD1602_ResetCursor	8	static
+../Src/myLCD_Driver.c:49:6:LCD1602_MoveCursorTo	24	static
+../Src/myLCD_Driver.c:73:6:LCD1602_WriteLetter	32	static
+../Src/myLCD_Driver.c:87:6:LCD1602_WriteText	24	static
+../Src/myLCD_Driver.c:93:6:LCD1602_WriteInst	32	static
